@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.472bbd0a.css",
-    "main.js": "/static/js/main.b791bfa7.js",
-    "static/js/787.a88ad219.chunk.js": "/static/js/787.a88ad219.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.472bbd0a.css.map": "/static/css/main.472bbd0a.css.map",
-    "main.b791bfa7.js.map": "/static/js/main.b791bfa7.js.map",
-    "787.a88ad219.chunk.js.map": "/static/js/787.a88ad219.chunk.js.map"
+    "main.css": "/newmooontr/tour-places-project/static/css/main.472bbd0a.css",
+    "main.js": "/newmooontr/tour-places-project/static/js/main.7d5ed8ad.js",
+    "static/js/787.a88ad219.chunk.js": "/newmooontr/tour-places-project/static/js/787.a88ad219.chunk.js",
+    "static/media/logo.svg": "/newmooontr/tour-places-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/newmooontr/tour-places-project/index.html",
+    "main.472bbd0a.css.map": "/newmooontr/tour-places-project/static/css/main.472bbd0a.css.map",
+    "main.7d5ed8ad.js.map": "/newmooontr/tour-places-project/static/js/main.7d5ed8ad.js.map",
+    "787.a88ad219.chunk.js.map": "/newmooontr/tour-places-project/static/js/787.a88ad219.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.472bbd0a.css",
-    "static/js/main.b791bfa7.js"
+    "static/js/main.7d5ed8ad.js"
   ]
 }
